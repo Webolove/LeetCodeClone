@@ -1,0 +1,37 @@
+{
+  "name": "clone_proj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codemirror/lang-cpp": "^6.0.2",
+    "@codemirror/lang-javascript": "^6.2.1",
+    "@uiw/codemirror-theme-vscode": "^4.21.18",
+    "@uiw/react-codemirror": "^4.21.18",
+    "assert": "^2.1.0",
+    "firebase": "^10.4.0",
+    "next": "latest",
+    "react": "latest",
+    "react-confetti": "^6.1.0",
+    "react-dom": "latest",
+    "react-firebase-hooks": "^5.1.1",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "react-split": "^2.0.14",
+    "react-use": "^17.4.2",
+    "react-youtube": "^10.1.0",
+    "recoil": "^0.7.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
